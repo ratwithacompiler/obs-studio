@@ -6,6 +6,7 @@ on:
       - '**.md'
     branches:
       - master
+      - 27_browser_source
     tags:
       - '*'
   pull_request:

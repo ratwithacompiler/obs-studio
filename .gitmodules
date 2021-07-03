@@ -9,7 +9,8 @@
 	url = https://github.com/obsproject/obs-amd-encoder.git
 [submodule "plugins/obs-browser"]
 	path = plugins/obs-browser
-	url = https://github.com/obsproject/obs-browser.git
+	branch = javascript_inject
+	url = https://github.com/ratwithacompiler/obs-browser.git
 [submodule "plugins/obs-vst"]
 	path = plugins/obs-vst
 	url = https://github.com/obsproject/obs-vst.git
